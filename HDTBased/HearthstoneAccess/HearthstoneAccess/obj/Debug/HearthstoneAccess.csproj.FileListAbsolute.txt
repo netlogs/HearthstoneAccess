@@ -1,0 +1,25 @@
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthstoneAccess.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthstoneAccess.pdb
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthDb.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthMirror.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\Hearthstone Deck Tracker.exe
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\MahApps.Metro.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HSReplay.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\LiveCharts.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\BobsBuddy.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\SharpRaven.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthWatcher.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\WPFLocalizeExtension.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\ControlzEx.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\XAMLMarkupExtensions.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\Hearthstone Deck Tracker.exe.config
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthWatcher.pdb
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.csproj.AssemblyReference.cache
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.csproj.CoreCompileInputs.cache
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.pdb
