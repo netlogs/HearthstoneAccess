@@ -1,10 +1,8 @@
-﻿using Hearthstone_Deck_Tracker.API;
+﻿using API = Hearthstone_Deck_Tracker.API;
+using Core = Hearthstone_Deck_Tracker.Core;
 using Hearthstone_Deck_Tracker.Plugins;
+using HearthstoneAccess.Utils;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Controls;
 
 namespace HearthstoneAccess
@@ -25,23 +23,25 @@ namespace HearthstoneAccess
 
         public void OnButtonPress()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
+
 
         public void OnLoad()
         {
-            GameEvents.OnGameStart.Add(Core.GameStart);
-            GameEvents.OnTurnStart.Add(Core.TurnStart);
+            PositionHelper positionHelper = new PositionHelper();
+            API.GameEvents.OnGameStart.Add(Main.GameStart);
+            API.GameEvents.OnTurnStart.Add(Main.TurnStart);
         }
 
         public void OnUnload()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         public void OnUpdate()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }

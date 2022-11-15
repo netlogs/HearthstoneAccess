@@ -1,5 +1,7 @@
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthstoneAccess.dll
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthstoneAccess.pdb
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\CalcBinding.dll
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\DynamicExpresso.Core.dll
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthDb.dll
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthMirror.dll
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\Hearthstone Deck Tracker.exe
@@ -19,7 +21,12 @@ C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneA
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\XAMLMarkupExtensions.dll
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\Hearthstone Deck Tracker.exe.config
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\bin\Debug\HearthWatcher.pdb
-C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.csproj.AssemblyReference.cache
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\Utils\PositionHelper.g.cs
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess_MarkupCompile.cache
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess_MarkupCompile.lref
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\Utils\PositionHelper.baml
+C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.g.resources
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.csproj.CoreCompileInputs.cache
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.dll
 C:\Users\ivory\Desktop\HearthstoneAccess\HDTBased\HearthstoneAccess\HearthstoneAccess\obj\Debug\HearthstoneAccess.pdb

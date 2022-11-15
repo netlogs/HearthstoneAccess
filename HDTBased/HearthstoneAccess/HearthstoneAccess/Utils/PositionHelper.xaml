@@ -1,0 +1,63 @@
+﻿<UserControl
+             x:Class="HearthstoneAccess.Utils.PositionHelper"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:HearthstoneAccess.Utils"
+             xmlns:csi ="clr-namespace:HearthstoneAccess.Models" 
+             mc:Ignorable="d"
+             d:DesignHeight="{Binding Path=OverlayWindow.Height}" d:DesignWidth="{Binding Path=OverlayWindow.Width}"
+             x:Name="PositionPicker" ForceCursor="True" Background="Transparent"
+             >
+
+    <UserControl.DataContext>
+        <csi:Position/>
+    </UserControl.DataContext>
+
+
+    <Canvas>
+        <StackPanel>
+            <TextBox>
+                <MultiBinding StringFormat="(Width,Height):({0},{1})">
+                    <Binding Path="OverlayWindow.Width" />
+                    <Binding Path="OverlayWindow.Height" />
+                </MultiBinding>
+            </TextBox>
+            <TextBox>
+                <MultiBinding StringFormat="(Top,Left):({0},{1})">
+                    <Binding Path="OverlayWindow.Top" />
+                    <Binding Path="OverlayWindow.Left" />
+                </MultiBinding>
+            </TextBox>
+
+            <TextBox>
+                <MultiBinding StringFormat="(CursorX,CursorY):({0},{1})">
+                    <Binding Path="CursorPoint.X" />
+                    <Binding Path="CursorPoint.Y" />
+                </MultiBinding>
+            </TextBox>
+
+            <TextBox>
+                <MultiBinding StringFormat="(X,Y):({0},{1})">
+                    <Binding Path="CursorInOverlayPoint.X" />
+                    <Binding Path="CursorInOverlayPoint.Y" />
+                </MultiBinding>
+            </TextBox>
+        </StackPanel>
+
+        <Grid>
+            <Line 
+                X2="{Binding OverlayWindow.Width}"
+                Y1="{Binding CursorInOverlayPoint.Y}"
+                Y2="{Binding CursorInOverlayPoint.Y}"
+                Stroke="Red"
+                StrokeThickness="1"/>
+            <Line Y2="{Binding OverlayWindow.Height}"
+                X1="{Binding CursorInOverlayPoint.X}"
+                X2="{Binding CursorInOverlayPoint.X}"
+                Stroke="Red"
+                StrokeThickness="1"/>
+        </Grid>
+    </Canvas>
+</UserControl>
